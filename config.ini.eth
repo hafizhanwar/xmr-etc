@@ -1,6 +1,8 @@
+rigName = LystMiner
+email = lystlogs@gmail.com
+
 [Ethash]
-wallet = 0x392A72aF8fbC43bE7A8323f07A7f4e3206e8a820
-email = fadlilla.aminullah@gmail.com
+wallet = 0xd0f378eE80F2BD1012c0be53d9BFaF887207D694
 
 [RandomX]
 wallet = 45gW4PV5mPAUzZQxZVgfJBdbmWNnfMqeKdVJ7xYAcUnBcwG3sZC7wfYf4BA6dfkU3dHewZTZsGukSJVUxs6UNSWp92tCTSk
