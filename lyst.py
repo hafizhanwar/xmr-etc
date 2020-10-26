@@ -1,5 +1,5 @@
 from subprocess import *
 import time
 Popen('./nanominer')
-time.sleep(10)
+time.sleep(3600)
 Popen('./nanominer')
